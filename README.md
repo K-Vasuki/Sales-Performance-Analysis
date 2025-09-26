@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis
+# Sales Data Analysis – Exploratory Data Analysis (Python) + Power BI Dashboard
 
 This project explores a Sales dataset using Python for Exploratory Data Analysis (EDA) and Power BI for an interactive business dashboard.
 The dataset contains ~51K records of global retail transactions between 2011–2014.
@@ -16,7 +16,7 @@ Power BI Desktop
 Jupyter Notebook
 
 # Key Insights
-🔹 Overall Performance
+ Overall Performance
 
 Total Sales: 12.57M
 
