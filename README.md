@@ -1,78 +1,31 @@
 # Sales Data Analysis – Exploratory Data Analysis (Python) + Power BI Dashboard
 
-This project explores a Sales dataset using Python for Exploratory Data Analysis (EDA) and Power BI for an interactive business dashboard.
-The dataset contains ~51K records of global retail transactions between 2011–2014.
+Total Sales and Profit:
+Achieved a total sales volume of ₹12.57M and overall profit of ₹1.45M from 25,000+ orders, with an average order value of ~₹502 and a profit margin of 11.5%.
 
-EDA.ipynb → Python analysis & visualization
+Top-Performing Categories:
+Technology products generated the highest revenue, particularly Phones, Accessories, and Copiers. Office Supplies showed high volume but lower average revenue, while Furniture contributed with thinner profit margins.
 
-Sales analysis-report.pbip → Power BI interactive report
+Shipping Modes:
+Standard Class was the most popular shipping mode, accounting for ₹7.53M in sales. Second Class and First Class contributed moderately. Same Day had the lowest revenue but was critical for urgent deliveries.
 
-# Tools & Libraries
+Customer Segments:
+The Consumer segment dominated overall sales. The Corporate segment exhibited steady growth. The Home Office segment had the lowest sales but delivered solid profit margins.
 
-Python → Pandas, NumPy, Matplotlib, Seaborn
+Regional Sales Trends:
+US and APAC regions were the leading contributors to sales and profitability. LATAM and Africa had lower sales but offered new market opportunities. Sales spanned multiple regions, highlighting global transaction patterns.
 
-Power BI Desktop
+Impact of Discounts:
+Orders with discounts above 30% typically incurred losses, indicating that heavy discounts negatively affected profitability.
 
-Jupyter Notebook
+Seasonality and Time Trends:
+Q4 (October–December) is the strongest period for sales, demonstrating seasonality. Average shipping duration was around 4 days, indicating fast processing and delivery.
 
-# Key Insights
- Overall Performance
+Top Customers and Sub-Categories:
+Key customers and specific product sub-categories contributed significantly to total revenue, with top sub-categories and customers identified for strategic targeting.
 
-Total Sales: 12.57M
-
-Total Profit: 1.45M
-
-Total Orders: 25K+
-
-Average Order Value (AOV): ~502
-
-Profit Margin: ~11.5%
-
-# Shipping Mode
-
-Standard Class dominates sales (~7.53M).
-
-Second Class (~2.57M) and First Class (~1.81M) are secondary contributors.
-
-Same Day has lowest revenue (~0.67M), but often linked with urgent/critical orders.
-
-# Categories
-
-Technology generates the highest revenue (Phones, Accessories, Copiers).
-
-Office Supplies has high volume but lower per-order revenue.
-
-Furniture (Chairs, Tables) contributes well but profit margins are thinner.
-
-# Customer Segments
-
-Consumer segment is the largest contributor to total sales.
-
-Corporate segment shows steady growth.
-
-Home Office contributes the least but has decent profit margin.
-
-# Regions/Markets
-
-Sales are spread across multiple Markets: APAC, EU, US, LATAM, Africa.
-
-US & APAC are leading contributors to sales and profit.
-
-LATAM & Africa show smaller revenue but opportunities for growth.
-
-# Discounts & Profitability
-
-Heavy discounts correlate with negative profits.
-
-Orders with >30% discount often result in loss-making transactions.
-
-# Time Trends
-
-Data covers 2011–2014.
-
-Strong seasonality: Q4 (Oct–Dec) drives the highest sales.
-
-Shipping duration averages ~4 days.
+Loss-Making Analysis:
+Products with frequent losses were identified, helping business operations to address pricing and discount strategies.
 
 
 Author
